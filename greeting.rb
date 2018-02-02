@@ -1,3 +1,2 @@
 
-puts "#{num_of_attendees}"
-
+puts "I'm #{num_of_attendees} old
