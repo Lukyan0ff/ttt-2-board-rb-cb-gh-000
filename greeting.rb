@@ -1,9 +1,3 @@
-def greeting
-  puts "Я умный чел"
-  puts "Я умный чел"
-  puts "Я умный чел"
-  puts "Я умный чел"
-  puts "Я умный чел"
+3.times do
+puts "#{num_of_attendees}"
 end
-
-greeting
